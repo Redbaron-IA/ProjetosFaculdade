@@ -1,7 +1,6 @@
-# ProjetosFaculdade
-Bem-vindo(a) à minha pasta de projetos de programação!
+# Bem-vindo(a)  à minha pasta de projetos de programação!
 
-Sou Vandelson Martins, estudante de Ciências da Computação pelo IFPE Afogados da Ingazeira, e estou empolgado(a) em compartilhar meus projetos com você. Nesta página do GitHub, você encontrará uma coleção diversificada de projetos desenvolvidos por mim durante meu percurso acadêmico.
+Sou Vandelson Martins, estudante de Licenciatura em Computação pelo IFPE Afogados da Ingazeira, e estou empolgado(a) em compartilhar meus projetos com você. Nesta página do GitHub, você encontrará uma coleção diversificada de projetos desenvolvidos por mim durante meu percurso acadêmico.
 
 Sobre Mim
 
